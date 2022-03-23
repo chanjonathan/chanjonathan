@@ -1,4 +1,4 @@
-Hi, I’m Jonathan
+# Hi, I’m Jonathan
 
 I’m interested in cybersecurity and cheminformatics
 
