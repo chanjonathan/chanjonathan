@@ -1,6 +1,7 @@
 # Hi, I’m Jonathan
+I'm a Computer Science student at the University of British Columbia.
 
-I’m interested in cybersecurity and cheminformatics
+I'm an aspiring software engineer and I’m also interested in learning about cybersecurity and cheminformatics
 
 
 
