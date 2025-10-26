@@ -1,7 +1,7 @@
 # Hi, I’m Jonathan
-I'm a Computer Science student at the University of British Columbia.
+I'm a Computer Science graduate of the University of British Columbia.
 
-There should also be a bit more stuff here like a sick RAFT distributed key/value system and Barrelfish microkernel component designs and implementations, but they're private for course reasons.
+Some project repos are private. Contact me for a private viewing.
 
 This is a crypto free zone
 
